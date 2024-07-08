@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.poster{
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(images/Banner\ Image.png) ;
+    width: 1320px;
+    height: 600px;
+    border-radius: 16px;
+    margin: auto;
+    position: relative;
+    margin-top: 50px;
+
+}
+.poster h3{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 32px;
+font-weight: 400;
+line-height: 40px;
+
+text-align: center;
+}
+.poster h1{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+letter-spacing: 0%;
+text-align: center;
+}
+.poster-content{
+    width: 632px;
+height: 246px;
+position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+
+}
+
+.offer-content h1{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+font-weight: 700;
+line-height: 107px;
+letter-spacing: 0%;
+text-align: center;
+}
+.offer-content h2{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.offer-content p{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+text-align: center;
+}
+
+.offer-img{
+    width: 802.9px;
+ height: 500px;
+
+}
+.offer-img-content{
+    text-align: center;
+    margin-top: 48px;
+}
+.poster2{
+    width: 1320px;
+height: 600px;
+background-image: linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),url(/images/Vectorrr.png);
+margin: auto;
+border-radius: 16px;
+margin-top: 120px;
+}
+.poster2-content h1{
+    color: rgb(255, 255, 255);
+font-family: Merriweather;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px;
+letter-spacing: 11%;
+text-align: left;
+}
+.poster2-content p{
+    color: rgba(255, 255, 255, 0.8);
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: left;
+}
+.poster2-main{
+    display: flex;
+    align-items: center;
+justify-content: space-between;
+}
+.poster2-content{
+   max-width:650px ;
+   height: 236px;
+margin-left: 126px;
+}
+.year{
+    padding-right: 108px;
+    padding-top:68px ;
+}
+.address-content h3 .address-style{
+   color:  rgb(255, 0, 0)
+
+}
+.address-content h3{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 600;
+line-height: 56px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+}
+
+.address{
+    width: 1320px;
+height: 482px;
+border-radius: 16px;
+
+background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);
+margin: auto;
+margin-top: 120px;
+}
+.address-content{width: 549px;
+height: 272px;
+margin: auto;
+padding-top:100px ;
+}
+.btn{
+    
+  
+text-align: center;
+padding-top: 10px;
+
+    
+}
+.btn button{
+    border-radius: 8px;
+background:  rgb(255, 0, 0);;
+border: none;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+width: 167px;
+height: 56px;
+}
+.best-offer-content1 h4{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+
+}
+.best-offer-content1 h2{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.best-offer-content p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+
+
+}
+.best-offer-content3 h1{
+    color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 48px;
+font-weight: 700;
+line-height: 58px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.best-offer-content{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.best-offer{
+    width: 1320px;
+height: 463px;
+margin: auto;
+
+}
+.best-offer-content1{
+    width: 393px;
+height: 255px;
+}
+.best-offer-content3{
+    width: 276px;
+    height: 310;
+}
+.best-offer-content2{
+    border: 15px solid rgb(255, 0, 0);
+    border-radius:50%;
+}
+.best-offer-content2 img{
+    padding: 32px;
+}
