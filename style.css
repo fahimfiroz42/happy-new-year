@@ -265,3 +265,22 @@ height: 255px;
     margin: auto;
     margin-top:100px ;
 }
+.holiday-img{
+    width: 1320px;
+height: 662.07px;
+margin: auto;
+margin-top: 100px;
+background-image: url(images/Rectangle\ 2.png);
+background-position: bottom;
+background-repeat: no-repeat;
+}
+.holiday-img-container{
+    display: flex;
+    justify-content: space-between;
+}
+.holiday-box2{
+    padding-top: 50px;
+    padding-right: 100px;
+
+
+}
