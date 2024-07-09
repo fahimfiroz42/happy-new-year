@@ -330,3 +330,104 @@ background-repeat: no-repeat;
 .portfolio-content{
     width: 800px;
 }
+
+.newsletter{
+    width: 1320px;
+height: 616px;
+margin: auto;
+border-radius: 16px;
+
+background: rgba(255, 0, 0, 0.05);
+margin-top: 120px;
+padding-top: 80px;
+}
+.newsletter-content h1{
+    color: rgb(7, 2, 17);
+font-family: Merriweather;
+font-size: 48px;
+font-weight: 900;
+line-height: 60px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+
+}
+.newsletter-content p{
+    color: rgba(7, 2, 17, 0.6);
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px;
+
+text-align: center;
+}
+.newsletter-content{
+    width: 896px;
+ max-height: 400px;
+margin: auto;
+
+box-sizing: border-box;
+
+
+}
+.email{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+.email img{
+    width: 100%;
+    height: 100%;
+}
+
+input{
+    border-radius: 50px   0px 0  50px;
+background: rgb(255, 255, 255);
+width: 500px;
+height: 72px;
+
+
+}
+.newsletter-input button{
+    border-radius: 0px 50px 50px 0px;
+
+background: rgb(255, 0, 0);
+width: 210px;
+height: 72px;
+color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 20px;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+text-transform: capitalize;
+border: none;
+
+}
+.newsletter-input{
+    text-align: center;
+    margin-top: 50px;
+
+}
+.footer{
+    width: 1525px;
+ height: 609px;
+ background-color:rgb(7, 2, 17);;
+}
+.footer-content p{
+    color: rgb(255, 255, 255);
+font-family: Inter;
+font-size: 24px;
+font-weight: 500;
+line-height: 40px;
+
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    width: 1185px;
+height: 80px;
+margin: auto;
+
+}
